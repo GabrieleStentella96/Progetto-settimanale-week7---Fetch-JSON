@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(142, 183, 188);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    margin: 1rem;
+}
+
+img {
+    width: 100%;
+}
+
+span {
+    font-weight: bold;
+}
+
+#card {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#card div {
+    width: 45%;
+    border: 2px solid rgb(9, 9, 9);
+    border-radius: 5px;
+    margin: 0.5rem auto;
+    padding: 0.2rem;
+    
+}
+
+h1, h2 {
+    color: rgb(9, 9, 9);
+    margin: 0.5rem;
+    text-align: left;
+}
+
+p {
+    margin: 0.5rem auto;
+}
+
+img {
+    width: 100%;
+}
