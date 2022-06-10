@@ -3,17 +3,6 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-p {
-    margin: 1rem;
-}
-
-img {
-    width: 100%;
-}
-
-span {
-    font-weight: bold;
-}
 
 #card {
     display: flex;
@@ -34,7 +23,7 @@ span {
 h1, h2 {
     color: rgb(9, 9, 9);
     margin: 0.5rem;
-    text-align: left;
+    text-align: center;
 }
 
 p {

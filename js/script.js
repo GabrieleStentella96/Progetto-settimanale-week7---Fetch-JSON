@@ -11,9 +11,9 @@ fetch('json/users.json').then(response => {
          card.innerHTML =    `
                              <h2>${element.firstName} ${element.lastName}</h2>
                              <img src="${element.profileURL}" alt="">
-                             <p>Gender: <span>${element.gender}</span></p>
-                             <p>Username: <span>${element.username}</span></p>
-                             <p>Email: <span>${element.email}</span></p>
+                             <li>Gender: ${element.gender}</li>
+                             <li>Username: ${element.username}</li>
+                             <li>Email: ${element.email}</li>
                              `
          container.appendChild(card);
      });
