@@ -13,8 +13,6 @@ body {
 
 #card div {
     width: 45%;
-    border: 2px solid rgb(9, 9, 9);
-    border-radius: 5px;
     margin: 0.5rem auto;
     padding: 0.2rem;
     
@@ -32,4 +30,5 @@ p {
 
 img {
     width: 100%;
+    border-radius: 30%;
 }
