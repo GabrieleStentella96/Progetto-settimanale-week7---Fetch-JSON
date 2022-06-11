@@ -5,6 +5,7 @@
     "lastName": "Doe",
     "gender": "Male",
     "profileURL": "img/john.png",
+    "subjet": "HTML - CSS - Bootstrap",
     "email": "john.doe@example.com"
   },
   {
@@ -13,15 +14,17 @@
     "lastName": "Doe",
     "gender": "Female",
     "profileURL": "img/jane.png",
+    "subjet": "Javascript - Angular - React",
     "email": "jane.doe@example.com"
   },
   {
     "username": "Kate",
     "firstName": "Kate",
-    "lastName": "Thompson",
+    "lastName": "Jones",
     "gender": "Female",
     "profileURL": "img/kate.png",
-    "email": "kate.thompson@example.com"
+    "subjet": "Java - Spring",
+    "email": "kate.jones@example.com"
   },
   {
     "username": "Jack",
@@ -29,6 +32,7 @@
     "lastName": "Rivers",
     "gender": "Male",
     "profileURL": "img/jack.png",
+    "subjet": "C# - .NET",
     "email": "jack.rivers@example.com"
   }
 ]
